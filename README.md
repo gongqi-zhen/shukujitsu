@@ -20,3 +20,8 @@ if shukujitsu.IsShukujitsu(time.Now()) {
     fmt.Println("shukujitsu!")
 }
 ```
+
+
+## MEMO(kenall)
+https://twitter.com/kenalljp/status/1503884558105989120
+https://blog.kenall.jp/entry/japan-holiday-api-release
